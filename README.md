@@ -1,5 +1,9 @@
 # ASK-Bank
-Bank website
-A - Adrian \n
+Bank website <br>
+A - Adrian <br>
 S - Shravan <br>
-K - Karthik 
+K - Karthik <br>
+<ul>
+  <li>Website</li>
+  <li>Implimentation</li>
+</ul>
